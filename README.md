@@ -26,19 +26,19 @@ The evaluation across the five AI platforms—ChatGPT, Claude, Bard, Cohere Comm
 ## Qualitative Observations
 
 # ChatGPT
-       demonstrated the highest overall response quality, consistently delivering concise, accurate summaries and technically sound answers. Its language understanding ensured highly coherent replies, preserving contextual nuance in customer inquiries. Users highlighted its intuitive interface and flexible prompting, contributing to strong user experience ratings
+         ChatGPT demonstrated the highest overall response quality, consistently delivering concise, accurate summaries and technically sound answers. Its language understanding ensured highly coherent replies, preserving contextual nuance in customer inquiries. Users highlighted its intuitive interface and flexible prompting, contributing to strong user experience ratings
 .
 # Claude 
-       closely followed, showing robust summarization ability and balanced technical accuracy. Its responses were clear and well-structured, with slight variability in handling complex, multi-part questions. Interface usability was rated positively, though some users noted occasional rigidity in prompt interpretations.
+        Claude closely followed, showing robust summarization ability and balanced technical accuracy. Its responses were clear and well-structured, with slight variability in handling complex, multi-part questions. Interface usability was rated positively, though some users noted occasional rigidity in prompt interpretations.
 
 # Bard
-      exhibited competitive performance in coherence and response speed, but occasionally produced less in-depth technical explanations, leading to moderate scores in accuracy. Its conversational tone was generally well-received, yet response consistency required improvement.
+        Bard exhibited competitive performance in coherence and response speed, but occasionally produced less in-depth technical explanations, leading to moderate scores in accuracy. Its conversational tone was generally well-received, yet response consistency required improvement.
 
 # Cohere
-       Command showed strength in technical question answering but lagged behind in summarization precision. Responses were straightforward but sometimes lacked fluent transitions, impacting coherence. User feedback suggested that the interface could benefit from more prompt flexibility.
+        Cohere Command showed strength in technical question answering but lagged behind in summarization precision. Responses were straightforward but sometimes lacked fluent transitions, impacting coherence. User feedback suggested that the interface could benefit from more prompt flexibility.
 
 # Meta
-        trailed on most metrics, with slower response times and less accurate output in summarization and technical queries. While its basic language understanding covered general inquiries adequately, responses occasionally suffered from incomplete information and lower coherence levels. User experience was rated lowest due to a more complex interaction workflow.
+        Meta trailed on most metrics, with slower response times and less accurate output in summarization and technical queries. While its basic language understanding covered general inquiries adequately, responses occasionally suffered from incomplete information and lower coherence levels. User experience was rated lowest due to a more complex interaction workflow.
 
 ## Visual Comparison of Responses
 
